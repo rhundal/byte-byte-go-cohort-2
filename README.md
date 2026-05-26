@@ -2,7 +2,6 @@
 
 Six hands-on projects covering the full AI engineering stack: LLM foundations, RAG, agentic systems, reasoning models, multi-modal generation, and MCP/A2A communication protocols. Built during the ByteByteGo AI Engineering Cohort 2 (Nov 8 – Dec 14).
 
-Portfolio: [rajdeep-portfolio-sigma.vercel.app](https://rajdeep-portfolio-sigma.vercel.app)
 
 ---
 
@@ -140,11 +139,6 @@ Builds an end-to-end multi-modal generation service using open-source diffusion 
 3. Create a HuggingFace account and generate an access token at [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
 4. Paste your token when prompted in the notebook
 
----
-
-## Bonus — Agent/RAG and MCP/A2A Modules
-
-Covers single-agent, multi-agent, and hierarchical agentic RAG systems including query decomposition, context engineering, memory, meta-agent and orchestrator patterns, feedback loops, and multimodal RAG with context management. The MCP/A2A module covers MCP vs standard API tooling, tool and resource discovery, prompt injection via MCP, AgentCards, capability discovery, latency and communication overhead, and compatibility and versioning.
 
 ---
 
