@@ -16,7 +16,7 @@ Explores the foundational mechanics of large language models from the ground up.
 
 **How to Run**
 
-Option 1 - NBViewer - [Project1]()
+[Project1](https://colab.research.google.com/github/rhundal/byte-byte-go-cohort-2/blob/master/llm-playground/lm_playground.ipynb)
 Option 2 — Google Colab (recommended):
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bytebyteai/ai-eng-projects-2/blob/main/project_1/lm_playground.ipynb)
