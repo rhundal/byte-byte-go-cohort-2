@@ -16,11 +16,12 @@ Explores the foundational mechanics of large language models from the ground up.
 
 **How to Run**
 
-Option 1 — Google Colab (recommended):
+Option 1 - NBViewer - [Project1]()
+Option 2 — Google Colab (recommended):
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bytebyteai/ai-eng-projects-2/blob/main/project_1/lm_playground.ipynb)
 
-Option 2 — Run locally:
+Option 3 — Run locally:
 
 ```bash
 # Create and activate the conda environment
@@ -46,6 +47,8 @@ Builds a production-style RAG-based customer support chatbot for an imaginary e-
 - Environment: Jupyter Notebook (conda)
 
 **How to Run**
+
+Option 1 - NBViewer - [Project2](https://nbviewer.org/github/rhundal/byte-byte-go-cohort-2/blob/master/rag-chatbot/rag_chatbot.ipynb)
 
 ```bash
 # Pull the local model first
@@ -75,6 +78,8 @@ Implements a fully agentic web research system modeled after Perplexity AI. Cove
 
 **How to Run**
 
+Option 1 - NBViewer - [Project3](https://nbviewer.org/github/rhundal/byte-byte-go-cohort-2/blob/master/ask-the-web-agent/ask_the_web_agent.ipynb)
+
 ```bash
 # Pull the local model first
 ollama pull gemma3:1b
@@ -102,6 +107,8 @@ Implements advanced reasoning and inference-time scaling techniques inspired by 
 - Environment: Jupyter Notebook (conda)
 
 **How to Run**
+
+Option 1 - NBViewer - [Project4](https://nbviewer.org/github/rhundal/byte-byte-go-cohort-2/blob/master/deep-research/deep_research.ipynb)
 
 ```bash
 # Pull the local models first
@@ -133,6 +140,8 @@ Builds an end-to-end multi-modal generation service using open-source diffusion 
 - Environment: Google Colab (GPU)
 
 **How to Run**
+
+Option 1 - NBViewer - [Project5](https://nbviewer.org/github/rhundal/byte-byte-go-cohort-2/blob/master/multi-modal-agent/multimodal_agent.ipynb)
 
 1. Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bytebyteai/ai-eng-projects/blob/main/project_5/multimodal_agent.ipynb)
 2. Enable GPU: Runtime → Change runtime type → GPU
